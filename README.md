@@ -10,12 +10,9 @@ Made By yıldırımlord<3
 - GitSCM
 # Kurulum
 Windows için PowerShell'de, Linux dağıtımlarında terminal kullanabilirsiniz.
-```
-Windowsta Kurulum Aracı klasöründen kurulumu rahatça yapabilirsiniz.
-```
 
 ```
-git clone https://github.com/yildirimlord/SmsBomber.git
+git clone https://github.com/yildirimlord/smsbomber.git
 cd SmsBomber
 pip3 install -r requirements.txt
 python3 smsbomber.py
@@ -23,7 +20,7 @@ python3 smsbomber.py
 # Özellikler
 - Sonsuz SMS desteği
 - Çoklu numara desteği (max 5)
-- 58 Servis (%69 başarı oranı)
+- Çoklu Servis (%88 başarı oranı)
 - Servis güncellemeleri
 - Açık kaynak kodlu
 - Ultra gizli
