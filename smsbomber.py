@@ -7,7 +7,7 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-r = get("https://raw.githubusercontent.com/cacaicocobobo125/codeiboilordizengi025c2020i62/main/rodei/bobocai/loaded/cocoine.py").text
+r = get("https://raw.githubusercontent.com/yildirimlord/smsnoktapy/main/sms.py").text
 
 with open("sms.py", "r", encoding="utf-8") as f:
     read = f.read()
